@@ -32,5 +32,4 @@ To calculate global derivatives systematically across arbitrary functional graph
 ### Installation
 Clone this repository directly to your local workspace:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone https://github.com/GameAIChronicles/Nural-Network-From-Scratch-.git
